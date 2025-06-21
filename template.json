@@ -1,0 +1,366 @@
+[
+    {
+      "name": "Topics",
+      "order": 1,
+      "data": [
+        {
+          "id": "63e94294-6f24-4a3a-8136-1cdd67d8dfcf",
+          "topicName": "General Disclosures",
+          "dimension": "generalInformation"
+        },
+        {
+          "id": "8a6ec84e-6831-4b9a-80e3-a8dc9de6ec51",
+          "topicName": "E1 Climate Change",
+          "dimension": "environmental",
+          "subTopics": [
+            {
+              "subTopicName": "Climate change mitigation",
+              "mandatoryVoluntary": "Voluntary",
+              "subSubTopics": []
+            },
+            {
+              "subTopicName": "Climate change adaptation",
+              "mandatoryVoluntary": "Voluntary",
+              "subSubTopics": []
+            },
+            {
+              "subTopicName": "E1 Energy",
+              "mandatoryVoluntary": "Voluntary",
+              "subSubTopics": []
+            }
+          ]
+        },
+        {
+          "id": "3d9c8b7b-dd15-4dd2-8054-670f478b71a5",
+          "topicName": "E2 Pollution",
+          "dimension": "environmental",
+          "subTopics": [
+            {
+              "subTopicName": "Pollution of air",
+              "mandatoryVoluntary": "Voluntary",
+              "subSubTopics": []
+            },
+            {
+              "subTopicName": "Pollution of water",
+              "mandatoryVoluntary": "Voluntary",
+              "subSubTopics": []
+            },
+            {
+              "subTopicName": "Pollution of soil",
+              "mandatoryVoluntary": "Voluntary",
+              "subSubTopics": []
+            },
+            {
+              "subTopicName": "Pollution of living organisms and food resources",
+              "mandatoryVoluntary": "Voluntary",
+              "subSubTopics": []
+            },
+            {
+              "subTopicName": "Substances of concern",
+              "mandatoryVoluntary": "Voluntary",
+              "subSubTopics": []
+            },
+            {
+              "subTopicName": "Substances of very high concern",
+              "mandatoryVoluntary": "Voluntary",
+              "subSubTopics": []
+            },
+            {
+              "subTopicName": "Microplastics",
+              "mandatoryVoluntary": "Voluntary",
+              "subSubTopics": []
+            }
+          ]
+        },
+        {
+          "id": "3aaf92db-a0ac-49dc-a869-062a7654da9c",
+          "topicName": "E3 Water and marinere sources",
+          "dimension": "environmental",
+          "subTopics": [
+            {
+              "subTopicName": "Water",
+              "mandatoryVoluntary": "Voluntary",
+              "subSubTopics": [
+                {
+                  "subSubTopicName": "Water consumption",
+                  "mandatoryVoluntary": "Voluntary"
+                },
+                {
+                  "subSubTopicName": "Water withdrawals",
+                  "mandatoryVoluntary": "Voluntary"
+                },
+                {
+                  "subSubTopicName": "Water discharges",
+                  "mandatoryVoluntary": "Voluntary"
+                },
+                {
+                  "subSubTopicName": "Water discharges in the ocean",
+                  "mandatoryVoluntary": "Voluntary"
+                }
+              ]
+            },
+            {
+              "subTopicName": "Marine Resources",
+              "mandatoryVoluntary": "Voluntary",
+              "subSubTopics": [
+                {
+                  "subSubTopicName": "Extraction and use of marine resources",
+                  "mandatoryVoluntary": "Voluntary"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "c7d9158c-af5d-4911-b117-b2d2ebbd95bb",
+          "topicName": "E4 Biodiversity and ecosystems",
+          "subTopics": [
+            {
+              "subTopicName": "Direct impact drivers of biodiversity loss",
+              "mandatoryVoluntary": "Voluntary",
+              "subSubTopics": [
+                {
+                  "subSubTopicName": "Climate Change",
+                  "mandatoryVoluntary": "Voluntary"
+                },
+                {
+                  "subSubTopicName": "Land-use change, fresh water-use change and sea-use change",
+                  "mandatoryVoluntary": "Voluntary"
+                },
+                {
+                  "subSubTopicName": "Direct exploitation",
+                  "mandatoryVoluntary": "Voluntary"
+                },
+                {
+                  "subSubTopicName": "Invasive alien species",
+                  "mandatoryVoluntary": "Voluntary"
+                },
+                {
+                  "subSubTopicName": "Pollution",
+                  "mandatoryVoluntary": "Voluntary"
+                },
+                {
+                  "subSubTopicName": "Others",
+                  "mandatoryVoluntary": "Voluntary"
+                }
+              ]
+            },
+            {
+              "subTopicName": "Impacts on the state of species",
+              "mandatoryVoluntary": "Voluntary",
+              "subSubTopics": [
+                {
+                  "subSubTopicName": "Species population size",
+                  "mandatoryVoluntary": "Voluntary"
+                },
+                {
+                  "subSubTopicName": "Species global extinction risk",
+                  "mandatoryVoluntary": "Voluntary"
+                }
+              ]
+            },
+            {
+              "subTopicName": "Impacts on the extent and condition of ecosystems",
+              "mandatoryVoluntary": "Voluntary",
+              "subSubTopics": [
+                {
+                  "subSubTopicName": "Land degradation",
+                  "mandatoryVoluntary": "Voluntary"
+                },
+                {
+                  "subSubTopicName": "Desertification",
+                  "mandatoryVoluntary": "Voluntary"
+                },
+                {
+                  "subSubTopicName": "Soil sealing",
+                  "mandatoryVoluntary": "Voluntary"
+                }
+              ]
+            },
+            {
+              "subTopicName": "Impacts and dependencies on ecosystem services",
+              "mandatoryVoluntary": "Voluntary",
+              "subSubTopics": []
+            }
+          ],
+          "dimension": "environmental"
+        },
+        {
+          "id": "9519552f-a9ff-4332-a493-979493396d4d",
+          "topicName": "E5 Resource use and circular economy",
+          "dimension": "environmental",
+          "subTopics": [
+            {
+              "subTopicName": "Resources inflows, including resource use",
+              "mandatoryVoluntary": "Voluntary",
+              "subSubTopics": []
+            },
+            {
+              "subTopicName": "Resource outflows related to products and services",
+              "mandatoryVoluntary": "Voluntary",
+              "subSubTopics": []
+            },
+            {
+              "subTopicName": "Waste",
+              "mandatoryVoluntary": "Voluntary",
+              "subSubTopics": []
+            }
+          ]
+        },
+        {
+          "id": "cf7db312-7924-4ff3-a78c-e318eeb27cbb",
+          "topicName": "S1 Own workforce",
+          "subTopics": [
+            {
+              "subTopicName": "Working conditions",
+              "mandatoryVoluntary": "Mandatory",
+              "subSubTopics": [
+                {
+                  "subSubTopicName": "Secure employment",
+                  "mandatoryVoluntary": "Mandatory"
+                },
+                {
+                  "subSubTopicName": "Working time",
+                  "mandatoryVoluntary": "Mandatory"
+                },
+                {
+                  "subSubTopicName": "Adequate wages",
+                  "mandatoryVoluntary": "Mandatory"
+                },
+                {
+                  "subSubTopicName": "Social dialogue",
+                  "mandatoryVoluntary": "Mandatory"
+                },
+                {
+                  "subSubTopicName": "Freedom of association, the existence of works councils and the information, consultation and participation, rights of workers",
+                  "mandatoryVoluntary": "Mandatory"
+                },
+                {
+                  "subSubTopicName": "Collective bargaining, including rate of workers covered by collective agreements",
+                  "mandatoryVoluntary": "Mandatory"
+                },
+                {
+                  "subSubTopicName": "Work-life balance",
+                  "mandatoryVoluntary": "Mandatory"
+                },
+                {
+                  "subSubTopicName": "Health and safety",
+                  "mandatoryVoluntary": "Mandatory"
+                }
+              ]
+            },
+            {
+              "subTopicName": "Equal treatment and opportunities for all",
+              "mandatoryVoluntary": "Mandatory",
+              "subSubTopics": [
+                {
+                  "subSubTopicName": "Gender equality and equal pay for work of equal value",
+                  "mandatoryVoluntary": "Mandatory"
+                },
+                {
+                  "subSubTopicName": "Training and skills development",
+                  "mandatoryVoluntary": "Mandatory"
+                },
+                {
+                  "subSubTopicName": "Employment and inclusion of persons with disabilities",
+                  "mandatoryVoluntary": "Mandatory"
+                },
+                {
+                  "subSubTopicName": "Measures against violence and harassment in the workplace",
+                  "mandatoryVoluntary": "Mandatory"
+                },
+                {
+                  "subSubTopicName": "Diversity",
+                  "mandatoryVoluntary": "Mandatory"
+                }
+              ]
+            },
+            {
+              "subTopicName": "Other work-related rights",
+              "mandatoryVoluntary": "Mandatory",
+              "subSubTopics": [
+                {
+                  "subSubTopicName": "Child labour",
+                  "mandatoryVoluntary": "Mandatory"
+                },
+                {
+                  "subSubTopicName": "Forced labour",
+                  "mandatoryVoluntary": "Mandatory"
+                },
+                {
+                  "subSubTopicName": "Adequate housing",
+                  "mandatoryVoluntary": "Mandatory"
+                },
+                {
+                  "subSubTopicName": "Privacy",
+                  "mandatoryVoluntary": "Mandatory"
+                }
+              ]
+            }
+          ],
+          "dimension": "social"
+        },
+        {
+          "id": "a13c43a1-4467-4233-a6e8-81aca6d56c33",
+          "topicName": "S2 Workers in the value chain",
+          "dimension": "social"
+        },
+        {
+          "id": "24dc9fb9-2b62-477d-85fc-8cdd90a2f31d",
+          "topicName": "S3 Affected communities",
+          "dimension": "social"
+        },
+        {
+          "id": "963dc526-be3d-49f7-8bda-be9a2233459e",
+          "topicName": "S4 Consumers and end-users",
+          "dimension": "social"
+        },
+        {
+          "id": "568113c8-dc1f-499e-9881-f03be6b79fa4",
+          "topicName": "G1 Business conduct",
+          "subTopics": [
+            {
+              "subTopicName": "Corporate culture",
+              "mandatoryVoluntary": "Voluntary",
+              "subSubTopics": []
+            },
+            {
+              "subTopicName": "Protection of whistleblowers",
+              "mandatoryVoluntary": "Voluntary",
+              "subSubTopics": []
+            },
+            {
+              "subTopicName": "Animal welfare",
+              "mandatoryVoluntary": "Voluntary",
+              "subSubTopics": []
+            },
+            {
+              "subTopicName": "Political engagement",
+              "mandatoryVoluntary": "Voluntary",
+              "subSubTopics": []
+            },
+            {
+              "subTopicName": "Management of relationships with suppliers including payment practices",
+              "mandatoryVoluntary": "Voluntary",
+              "subSubTopics": []
+            },
+            {
+              "subTopicName": "Corruption and bribery",
+              "mandatoryVoluntary": "Voluntary",
+              "subSubTopics": [
+                {
+                  "subSubTopicName": "Prevention and detection including training",
+                  "mandatoryVoluntary": "Voluntary"
+                },
+                {
+                  "subSubTopicName": "Incidents",
+                  "mandatoryVoluntary": "Voluntary"
+                }
+              ]
+            }
+          ],
+          "dimension": "governance"
+        }
+      ]
+    }
+  ]
